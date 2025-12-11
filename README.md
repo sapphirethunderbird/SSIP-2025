@@ -13,3 +13,9 @@ Data analysis with R
 ![Production of Wheat and Rice in Japan](./assets/Production of Wheat and Rice in Japan.png)
 ![Average Test Scores by Major.](./assets/Average Test Scores by Major.png)
 ![My Top 20 Words](./assets/My Top 20 Words.png)
+
+<p align="center">
+  <img src="./assets/Production of Wheat and Rice in Japan.png" width="350">
+  <img src="./assets/Average Test Scores by Major.png" width="350">
+  <img src="./assets/My Top 20 Words.png", width="350"
+</p>
