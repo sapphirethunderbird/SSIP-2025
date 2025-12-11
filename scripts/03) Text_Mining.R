@@ -109,7 +109,7 @@ ggplot(
     x     = "Words",
     y     = "Frequency"
   ) +
-  theme_bw(base_family = "sans")
+  theme_bw(base_family = "HiraKakuProN-W3")
   
 # ---- Freestyle ----
 # Make a self-introduction and put it into my_text.txt
@@ -144,7 +144,7 @@ ggplot(
     x     = "Words",
     y     = "Frequency"
   ) +
-  theme_bw(base_family = "sans")
+  theme_bw(base_family = "HiraKakuProN-W3")
 
 
 
