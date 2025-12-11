@@ -6,7 +6,10 @@ Data analysis with R
 
 - `data`: Data used for analysis.
 - `scripts`: R Script samples.
-  Put these in the root of your project directory
+
+  > Put these in the root of your project directory
+
+- `assets`: Screenshots
 
 ## Gallery
 
